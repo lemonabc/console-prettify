@@ -1,0 +1,14 @@
+{
+  "name": "console-prettify",
+  "version": "0.0.2",
+  "description": "readme.md",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wheasy",
+  "license": "ISC"
+}
