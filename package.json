@@ -9,6 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "wheasy",
+  "repository": "wheasy/console-prettify",
+  "email" : "wanhu88@qq.com",
+  "author": "wheasy <wanhu88@qq.com>",
   "license": "ISC"
 }
